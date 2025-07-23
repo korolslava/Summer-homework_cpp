@@ -1,0 +1,9 @@
+﻿  homework_summer_6.cpp
+C:\Users\ACER\source\repos\homework_summer_6\homework_summer_6\homework_summer_6.cpp(8,12): error C2661: 'Room::Room': no overloaded function takes 4 arguments
+      C:\Users\ACER\source\repos\homework_summer_6\homework_summer_6\homework_summer_6.cpp(8,12):
+      while trying to match the argument list '(int, TypeOfRoom, int, Guest)'
+  
+C:\Users\ACER\source\repos\homework_summer_6\homework_summer_6\homework_summer_6.cpp(9,12): error C2661: 'Room::Room': no overloaded function takes 4 arguments
+      C:\Users\ACER\source\repos\homework_summer_6\homework_summer_6\homework_summer_6.cpp(9,12):
+      while trying to match the argument list '(int, TypeOfRoom, int, Guest)'
+  

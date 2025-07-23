@@ -1,0 +1,5 @@
+﻿  lesson_5_7_third.cpp
+C:\Users\ACER\source\repos\lesson_5_7_third\lesson_5_7_third\Game.h(40,1): warning C4717: 'Game::showInfo': recursive on all control paths, function will cause runtime stack overflow
+  lesson_5_7_third.vcxproj -> C:\Users\ACER\source\repos\lesson_5_7_third\x64\Debug\lesson_5_7_third.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
